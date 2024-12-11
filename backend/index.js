@@ -8,7 +8,7 @@ import companyRoutes from "./routes/companyRoutes.js";
 import jobRoutes from "./routes/jobRoutes.js";
 import applicationRoutes from "./routes/applicationRoutes.js";
 import bodyParser from "body-parser"
-import path from "path"
+import path from "path" //for deployment porpose
 
 dotenv.config({});
 
